@@ -1,0 +1,34 @@
+Inventario de Sistema Integrado;;;;
+;;;;
+Bebidas;;;;
+ID;nombre;costo;cantidad;ml
+0;Coa-Cola;1.50;100;500
+1;Pepsi;1.45;80;500
+2;Fanta;1.40;60;500
+3;Sprite;1.30;90;500
+4;Agua-Cielo;1.00;120;600
+;;;;
+Snacks;;;;
+ID;nombre;costo;cantidad
+0;Papas-Fritas;0.80;200
+1;Doritos;0.85;150
+2;heetos;0.90;100
+3;Oreo;1.00;80
+4;Palomitas;0.75;120
+;;;;
+Abarrotes;;;;
+ID;nombre;costo;cantidad
+0;Arroz;2.00;50
+1;Porotos;1.80;60
+2;Lentejas;1.70;40
+3;Azucar;1.50;70
+4;Harina-de-Trigo;1.60;90
+;;;;
+Usuarios;;;;
+nombre;role(0:Admin, 1:Role)
+Andre;1
+Marymar;1
+Fatima;1
+Mariela;1
+Haydee;0
+Farid;1
